@@ -1,4 +1,4 @@
-# Research Environment Setup
+# Setting Amazon Linux on EC2 G4dn.xlarge for Remote Access: Desktop, NVIDIA Drivers, CUDA. 
 
 This repository provides a comprehensive Bash script, `setup_research_env.sh`, to bootstrap an Amazon EC2 instance for data research. It configures a desktop GUI, NICE DCV server, NVIDIA drivers & CUDA, Python3 environment, JupyterLab, and core machine learning libraries (PyTorch, TensorFlow, Transformers, OpenCV, MediaPipe).
 
